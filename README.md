@@ -34,6 +34,6 @@ PIL
 
 # Contribution
 
-This repository is developed and maintained by [Lokesh Mishra](https://github.com/exomishra), [Scalable Knowledge Ingestion](https://ds4sd.github.io/people) research group at [IBM Research, Zurich](https://www.zurich.ibm.com/). 
+This repository is developed and maintained by [Scalable Knowledge Ingestion](https://ds4sd.github.io/people) research group at [IBM Research, Zurich](https://www.zurich.ibm.com/). 
 
 To contribute code or documentation, please submit a pull request.
