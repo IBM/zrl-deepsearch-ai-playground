@@ -8,11 +8,13 @@ The end goal is to assemble the necessary pieces for explaining the [IBM Deep Se
 
 # Tasks
 
-- Task 1: Object Detection
+The jupyter notebooks for each tasks is in the `notebooks` directory. 
 
-- Task 2: Word Embeddings
+- [Task 1: Object Detection](https://github.com/IBM/zrl-deepsearch-ai-playground/blob/master/notebooks/task1_object_detection.ipynb)
 
-- Task 3: Named Entity Recognition
+- [Task 2: Word Embeddings](https://github.com/IBM/zrl-deepsearch-ai-playground/blob/master/notebooks/task2_wordembeddings.ipynb)
+
+- [Task 3: Named Entity Recognition](https://github.com/IBM/zrl-deepsearch-ai-playground/blob/master/notebooks/task3_named_entity_recognition.ipynb)
 
 
 
@@ -32,6 +34,6 @@ PIL
 
 # Contribution
 
-This repository is developed and maintained by Lokesh Mishra, [Scalable Knowledge Ingestion](https://ds4sd.github.io/people) research group at [IBM Research, Zurich](https://www.zurich.ibm.com/). 
+This repository is developed and maintained by [Lokesh Mishra](https://github.com/exomishra), [Scalable Knowledge Ingestion](https://ds4sd.github.io/people) research group at [IBM Research, Zurich](https://www.zurich.ibm.com/). 
 
 To contribute code or documentation, please submit a pull request.
