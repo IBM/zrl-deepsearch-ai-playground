@@ -1,32 +1,37 @@
-# Advocacy Workshop
+# ML to NLP Workshop
 
-This is a template for workshops hosted on GitHub Pages using Material for MkDocs. To view it online, go to:
+This repository consists of plug and play notebooks -- allowing first exposure to some tasks in machine learning, natural language processing. 
 
-<https://ibm.github.io/repo-name>
+We use pre-trained off-the-shelf models to allow people to interact, enjoy, and play with machine learning. Meanwhile, the tasks expose some well known ML capabilities.
 
-Create a new repo based off this template, and use the following folders as a guide:
+The end goal is to assemble the necessary pieces for explaining the [IBM Deep Search](https://ds4sd.github.io/).
 
-```ini
+# Tasks
 
-- data (any data (CSV, JSON, etc files) to be used)
-- docs (this is where the workshop is documented)
-|_ <folder-n> (these are exercises for the workshop)
-  |_README.md (the steps for the exercise, in Markdown)
-|_ README.md (this will appear on the gitbook home page)
-- notebooks (any Jupyter notebooks can go here)
-- src (any application source code can go here)
-.mkdocs.yaml (configuration for mkdocs)
-.travis.yaml (runs markdownlint by default)
-README.md (only used for GitHub.com)
+- Task 1: Object Detection
+
+- Task 2: Word Embeddings
+
+- Task 3: Named Entity Recognition
+
+
+
+# Requirements
+```
+python
+jupyter-notebook
+tensorflow
+tensorflow-hub
+numpy
+pandas
+gensim
+spacy
+matplotlib
+PIL
 ```
 
-## Tips and conventions
+# Contribution
 
-### Screenshots
+This repository is developed and maintained by Lokesh Mishra, [Scalable Knowledge Ingestion](https://ds4sd.github.io/people) research group at [IBM Research, Zurich](https://www.zurich.ibm.com/). 
 
-Screenshots look better if they are full page.
-Use [ImageMagick](https://imagemagick.org) to create a nice border around images with this command:
-
-```bash
-magick mogrify -bordercolor gray -border 2
-```
+To contribute code or documentation, please submit a pull request.
