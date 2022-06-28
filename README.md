@@ -31,6 +31,7 @@ spacy
 matplotlib
 PIL
 ```
+Worry not! Everything is prepared via a docker container that contains all the libraries and packages we need. 
 
 # Contribution
 
